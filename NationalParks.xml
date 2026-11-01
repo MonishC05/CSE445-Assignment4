@@ -1,0 +1,149 @@
+ <NationalParks>
+ 
+  <!-- Park 1 -->
+  <NationalPark Rating="4.9">
+    <Name>Grand Canyon</Name>
+    <Phone>928-638-7496</Phone>
+    <Phone>888-297-2757</Phone>
+    <Phone>866-499-2574</Phone>
+    <Address NearestAirport="FlagStaff">
+      <Number>8</Number>
+      <Street>S Entrance Road</Street>
+      <City>Grand Canyon</City>
+      <State>AZ</State>
+      <Zip>86023</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 2 -->
+  <NationalPark>
+    <Name>Yellowstone</Name>
+    <Phone>307-344-7381</Phone>
+    <Address NearestAirport="Bozeman Yellowstone International Airport">
+      <Number>2</Number>
+      <Street>Officers Row</Street>
+      <City>Yellowstone National Park</City>
+      <State>WY</State>
+      <Zip>82190</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 3 -->
+  <NationalPark>
+    <Name>Petrified Forest</Name>
+    <Phone>928-524-6228</Phone>
+    <Address NearestAirport="Flagstaff Pulliam Airport">
+      <Number>311</Number>
+      <Street>Interstate 40 Exit</Street>
+      <City>Petrified Forest</City>
+      <State>AZ</State>
+      <Zip>86028</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 4 -->
+  <NationalPark>
+    <Name>Zion</Name>
+    <Phone>435-772-3256</Phone>
+    <Address NearestAirport="St. George Regional Airport">
+      <Number>1</Number>
+      <Street>Zion Park Blvd</Street>
+      <City>Springdale</City>
+      <State>UT</State>
+      <Zip>84767</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 5 -->
+  <NationalPark>
+    <Name>Rocky Mountain</Name>
+    <Phone>970-586-1206</Phone>
+    <Phone>970-586-1222</Phone>
+    <Address NearestAirport="Denver International Airport">
+      <Number>1000</Number>
+      <Street>US Hwy 36</Street>
+      <City>Estes Park</City>
+      <State>CO</State>
+      <Zip>80517</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 6 -->
+  <NationalPark>
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Address NearestAirport="McGhee Tyson Airport">
+      <Number>1420</Number>
+      <Street>Fighting Creek Gap Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 7 -->
+  <NationalPark>
+    <Name>Sequoia</Name>
+    <Phone>559-565-3341</Phone>
+    <Address NearestAirport="Visalia Municipal Airport">
+      <Number>47050</Number>
+      <Street>Generals Highway</Street>
+      <City>Three Rivers</City>
+      <State>CA</State>
+      <Zip>93271</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 8 -->
+  <NationalPark>
+    <Name>Joshua Tree</Name>
+    <Phone>760-367-5500</Phone>
+    <Address NearestAirport="Palm Springs International Airport">
+      <Number>74485</Number>
+      <Street>National Park Drive</Street>
+      <City>Twentynine Palms</City>
+      <State>CA</State>
+      <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 9 -->
+  <NationalPark>
+    <Name>Cuyahoga Valley</Name>
+    <Phone>440-717-3890</Phone>
+    <Address NearestAirport="Cleveland Hopkins International Airport">
+      <Number>6947</Number>
+      <Street>Riverview Road</Street>
+      <City>Peninsula</City>
+      <State>OH</State>
+      <Zip>44264</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 10 -->
+  <NationalPark>
+    <Name>Yosemite</Name>
+    <Phone>209-372-0280</Phone>
+    <Address NearestAirport="Merced Airport">
+      <Number>9037</Number>
+      <Street>Village Drive</Street>
+      <City>Yosemite Valley</City>
+      <State>CA</State>
+      <Zip>95389</Zip>
+    </Address>
+  </NationalPark>
+
+  <!-- Park 11 -->
+  <NationalPark>
+    <Name>Acadia</Name>
+    <Phone>207-288-3338</Phone>
+    <Address NearestAirport="Hancock County-Bar Harbor Airport">
+      <Number>25</Number>
+      <Street>Visitor Center Road</Street>
+      <City>Bar Harbor</City>
+      <State>ME</State>
+      <Zip>04609</Zip>
+    </Address>
+  </NationalPark>
+
+</NationalParks>
