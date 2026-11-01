@@ -42,7 +42,7 @@
   </NationalPark>
 
   <!-- Park 4 -->
-  <NationalPark>
+  <NationalPark Rating="4.7">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
     <Address NearestAirport="St. George Regional Airport">
@@ -121,7 +121,7 @@
   </NationalPark>
 
   <!-- Park 10 -->
-  <NationalPark>
+  <NationalPark Rating="4.5">
     <Name>Yosemite</Name>
     <Phone>209-372-0280</Phone>
     <Address NearestAirport="Merced Airport">
