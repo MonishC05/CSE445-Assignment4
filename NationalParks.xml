@@ -1,4 +1,6 @@
- <NationalParks>
+ <NationalParks 
+   xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+   xsi:noNamespaceSchemaLocation="https://monishc05.github.io/CSE445-Assignment4/NationalParks.xsd">
  
   <!-- Park 1 -->
   <NationalPark Rating="4.9">
