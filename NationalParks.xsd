@@ -1,5 +1,9 @@
 
-<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<xsd:schema
+    xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    xmlns="https://github.com/MonishC05/CSE445-Assignment4"
+    targetNamespace="https://github.com/MonishC05/CSE445-Assignment4"
+    elementFormDefault="qualified">
 
   <xsd:element name="NationalParks">
     <xsd:complexType>
