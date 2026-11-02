@@ -1,4 +1,7 @@
- <NationalParks>
+<NationalParks
+    xmlns="https://github.com/MonishC05/CSE445-Assignment4"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="https://github.com/MonishC05/CSE445-Assignment4 https://monishc05.github.io/CSE445-Assignment4/NationalParks.xsd">
  
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
