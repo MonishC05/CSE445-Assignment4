@@ -1,6 +1,5 @@
  <NationalParks>
  
-  <!-- Park 1 -->
   <NationalPark Rating="4.9">
     <Name>Grand Canyon</Name>
     <Phone>928-638-7496</Phone>
@@ -15,7 +14,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 2 -->
   <NationalPark>
     <Name>Yellowstone</Name>
     <Phone>307-344-7381</Phone>
@@ -29,7 +27,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 3 -->
   <NationalPark>
     <Name>Petrified Forest</Name>
     <Phone>928-524-6228</Phone>
@@ -42,7 +39,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 4 -->
   <NationalPark Rating="4.7">
     <Name>Zion</Name>
     <Phone>435-772-3256</Phone>
@@ -56,7 +52,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 5 -->
   <NationalPark>
     <Name>Rocky Mountain</Name>
     <Phone>970-586-1206</Phone>
@@ -70,7 +65,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 6 -->
   <NationalPark>
     <Name>Great Smoky Mountains</Name>
     <Phone>865-436-1200</Phone>
@@ -83,7 +77,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 7 -->
   <NationalPark>
     <Name>Sequoia</Name>
     <Phone>559-565-3341</Phone>
@@ -96,7 +89,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 8 -->
   <NationalPark>
     <Name>Joshua Tree</Name>
     <Phone>760-367-5500</Phone>
@@ -109,7 +101,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 9 -->
   <NationalPark>
     <Name>Cuyahoga Valley</Name>
     <Phone>440-717-3890</Phone>
@@ -122,7 +113,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 10 -->
   <NationalPark Rating="4.5">
     <Name>Yosemite</Name>
     <Phone>209-372-0280</Phone>
@@ -135,7 +125,6 @@
     </Address>
   </NationalPark>
 
-  <!-- Park 11 -->
   <NationalPark>
     <Name>Acadia</Name>
     <Phone>207-288-3338</Phone>
